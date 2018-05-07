@@ -935,8 +935,8 @@ fieldset[disabled] .btn-theme-color-lemon.focus {
 }
 .btn-theme-color-yellow {
   color: #fff;
-  background-color: #F39C12;
-  border-color: #F39C12;
+  background-color: #409bc0;
+  border-color: #409bc0;
 }
 .btn-theme-color-yellow:focus,
 .btn-theme-color-yellow.focus {
